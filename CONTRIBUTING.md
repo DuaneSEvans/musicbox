@@ -12,6 +12,7 @@ For taking an interest in Musicbox and thank you in advance for any contribution
 # Contributors
 
 - Dan Lavin
+- Duane Evans
 - Jason Sisk
 - Sean Dennison
 - Truman Shuck
